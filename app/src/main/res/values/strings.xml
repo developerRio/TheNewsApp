@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TheNewsApp</string>
+    <string name="news_headline_image">news headline image</string>
+    <string name="headline_title">Headline Title</string>
+    <string name="news_description">News Description</string>
+    <string name="news_source">News Source</string>
+    <string name="date_of_the_news">Date of the news</string>
+    <string name="the_news_app">The \nNews \nChannel</string>
+    <string name="news_headlines">News Headlines</string>
+</resources>
